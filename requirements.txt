@@ -1,0 +1,5 @@
+Flask==0.10.1
+gunicorn==19.6.0
+futures==3.0.5
+transformers==2.0.0
+torch==1.4.0
