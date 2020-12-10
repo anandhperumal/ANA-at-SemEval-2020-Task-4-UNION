@@ -11,11 +11,17 @@ To run it as a flask app : run the main.py file
 To train a model form Scratch : MTD-NCH.py 
 
 @inproceedings{konar-etal-2020-ana,
+
     title = "{ANA} at {S}em{E}val-2020 Task 4: {MU}lti-task lear{NI}ng for c{O}mmonsense reaso{N}ing ({UNION})",
+    
     author = "Konar, Anandh  and
+      
       Huang, Chenyang  and
+      
       Trabelsi, Amine  and
+      
       Zaiane, Osmar",
+    
     booktitle = "Proceedings of the Fourteenth Workshop on Semantic Evaluation",
     month = dec,
     year = "2020",
